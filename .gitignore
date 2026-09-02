@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.pyc
+
+
+
+movies_analysis_pipeline/data/raw/
+movies_analysis_pipeline/data/cache/

@@ -13,7 +13,7 @@ CREATE TABLE fact.fact_movie
 
     DirectorKey             INT NULL,
     WriterKey               INT NULL,
-    ProductionCompanyKey   INT NULL,
+    ProductionCompanyKey    INT NULL,
     CountryKey              INT NULL,
     LanguageKey             INT NULL,
 
@@ -38,9 +38,6 @@ CREATE TABLE fact.fact_movie
     TMDB_Popularity         DECIMAL(18,6) NULL,
     TMDB_Rating             DECIMAL(5,2) NULL,
     TMDB_VoteCount          INT NULL,
-
-    IMDb_Rating             DECIMAL(5,2) NULL,
-    IMDb_VoteCount          INT NULL,
 
     MovieStatus             NVARCHAR(100) NULL,
 

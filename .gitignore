@@ -227,3 +227,9 @@ data/raw/
 data/cache/
 data/processed/
 
+analysis.md
+.vscode/
+*.slnx
+.vs/
+
+

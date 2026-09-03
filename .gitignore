@@ -222,3 +222,8 @@ __marimo__/
 
 movies_analysis_pipeline/data/raw/
 movies_analysis_pipeline/data/cache/
+data/
+data/raw/
+data/cache/
+data/processed/
+

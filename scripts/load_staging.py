@@ -158,6 +158,7 @@ def load_csv():
     # Convert release date
     df["release_date"] = pd.to_datetime(
         df["release_date"],
+        format="%d-%m-%Y",
         errors="coerce"
     ).dt.date
 

@@ -42,3 +42,7 @@ SELECT TOP 20
 FROM stg.stg_movies
 WHERE production_companies LIKE '%|%'
    OR production_countries LIKE '%|%';
+
+
+
+select * from dim.dim_country

@@ -1,6 +1,9 @@
 USE CineMetrics;
 GO
 
+TRUNCATE TABLE fact.fact_movie
+
+SELECT * FROM fact.fact_movie
 
 INSERT INTO fact.fact_movie
 (

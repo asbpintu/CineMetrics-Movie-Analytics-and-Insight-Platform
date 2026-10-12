@@ -73,6 +73,8 @@ WHERE NULLIF(LTRIM(RTRIM(writers)), '') IS NOT NULL
 
 -- Production Company
 
+select * from dim.dim_production_company
+
 INSERT INTO dim.dim_production_company (ProductionCompanyName)
 SELECT DISTINCT
     LTRIM(RTRIM(production_companies))
@@ -87,6 +89,8 @@ WHERE NULLIF(LTRIM(RTRIM(production_companies)), '') IS NOT NULL
 
 
 -- Country
+
+Select * from dim.dim_country
 
 INSERT INTO dim.dim_country (CountryName)
 SELECT DISTINCT

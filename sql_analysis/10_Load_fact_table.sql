@@ -194,3 +194,5 @@ LEFT JOIN dim.dim_country c
 LEFT JOIN dim.dim_language l
     ON f.LanguageKey = l.LanguageKey
 ORDER BY f.MovieID;
+
+select top 20 * from fact.fact_movie

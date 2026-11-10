@@ -295,7 +295,7 @@ The project provides a scalable foundation for further exploration of movie indu
   <tr>
     <!-- Left Column: Isolated Profile Image Container -->
     <td width="190" align="center" valign="top">
-      <img src="https://asbpintu.netlify.app/images/profile.png" width="170" height="165" alt="Ardhendu Shekhar Behera" />
+      <img src="https://asbpintu.netlify.app/images/profile.png" width="170" height="165" alt="Ardhendu Shekhar Behera" style="border-radius: 50%; max-width: 100%; border: 3px solid #007acc;"/>
     </td>
     <!-- Right Column: Content Container -->
     <td valign="top" style="padding-left: 20px;">

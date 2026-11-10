@@ -235,3 +235,6 @@ analysis.md
 
 dashboards/docs/
 dashboards/images/
+
+generate_tree.py
+tree_structure.txt

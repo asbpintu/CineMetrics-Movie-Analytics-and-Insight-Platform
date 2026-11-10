@@ -297,7 +297,7 @@ The project provides a scalable foundation for further exploration of movie indu
 <div id="header" align="center">
   <img src="https://asbpintu.netlify.app/images/profile.png" width="160" height="160" align="left" style="border-radius: 50%;" />
   <div align="left" style="margin-left: 190px;">
-    <h2>Ardhendu Shekhar Behera</h2>
+    <span style="font-size: 1.5em; font-weight: bold; display: block; margin-bottom: 10px;">Ardhendu Shekhar Behera</span>
     <p><em>Data Scientist & Machine Learning Engineer passionate about turning complex data into actionable AI solutions.</em></p>
     <p>
       📧 <a href="mailto:asbpintu@gmail.com">asbpintu@gmail.com</a> &nbsp;|&nbsp; 

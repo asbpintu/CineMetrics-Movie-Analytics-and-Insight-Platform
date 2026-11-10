@@ -291,9 +291,6 @@ The project provides a scalable foundation for further exploration of movie indu
 
 **Technologies:** Python | Pandas | IMDb | TMDB API | SQL Server | Power BI | DAX | Power Query
 
----
----
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- Left Column: Isolated Profile Image Container -->
@@ -310,17 +307,15 @@ The project provides a scalable foundation for further exploration of movie indu
         💼 <a href="https://www.linkedin.com/in/asbpintu/">LinkedIn</a> &nbsp;|&nbsp; 
         🌐 <a href="https://asbpintu.netlify.app">Portfolio Website</a>
       </p>
-      <!-- Core Tech Stack Badges placed seamlessly underneath the bio metrics -->
-      <p>
-        <img src="https://img.shields.io/badge/Data%20Science-ED5B26?style=for-the-badge&logo=datastax&logoColor=white" alt="Data Science">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/ML-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="ML">
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=solid&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=flipboard&logoColor=black" alt="Power BI">
-        <img src="https://img.shields.io/badge/GIT-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      </p>
     </td>
   </tr>
 </table>
 
-
+<p>
+  <img src="https://img.shields.io/badge/Data%20Science-ED5B26?style=for-the-badge&logo=datastax&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ML-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="ML">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=solid&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=flipboard&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/GIT-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
